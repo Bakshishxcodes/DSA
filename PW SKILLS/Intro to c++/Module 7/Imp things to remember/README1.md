@@ -1,0 +1,1 @@
+# int main() is the very first function compiler see , then it calls other functions later.
